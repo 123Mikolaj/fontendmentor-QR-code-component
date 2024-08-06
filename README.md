@@ -21,11 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 **Template:**
 
-![Template Screenshot](./images/preview.jpg)
+![Template Screenshot](./images-for-README/preview.jpg)
 
 **Finished Version:**
 
-![Finished Version Screenshot](./images/my-preview.png)
+![Finished Version Screenshot](./images-for-README/my-preview.png)
 
 ### Links
 
